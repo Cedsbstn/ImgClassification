@@ -7,9 +7,9 @@ Download Dataset from [Source](https://github.com/dicodingacademy/assets/release
 
 ## How to use
 
-1st. Download Dataset from [Source](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip).
-2nd. Open Google Colab and upload Image-Classification.ipynb file to analysis and train the model.
-3rd. Following the guide inside the notebook.
+1. Download Dataset from [Source](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip).
+2. Open Google Colab and upload Image-Classification.ipynb file to analysis and train the model.
+3. Following the guide inside the notebook.
 
 ---
 Thanks. Hopefully this project can be useful and impactful 📔✨👨‍💻
