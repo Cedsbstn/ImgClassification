@@ -7,6 +7,7 @@ Download Dataset from [Source](https://github.com/dicodingacademy/assets/release
 
 ## Recommendation
 Always following Machine Learning Best Practice.
+Always using the most fit Algorithm.
 
 ## How to use
 
