@@ -5,6 +5,9 @@ Define a set of target classes (objects to identify in images), and train a mode
 Dataset that used in this project provided by Dicoding Academy consist of the hand which pictured as rock, paper, scissors.
 Download Dataset from [Source](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip).
 
+## Recommendation
+Always following Machine Learning Best Practice.
+
 ## How to use
 
 1. Download Dataset from [Source](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip).
